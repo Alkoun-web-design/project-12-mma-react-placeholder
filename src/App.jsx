@@ -6,7 +6,8 @@ function App() {
 
   return (
     <div className='font-display'>
-      <div className='absolute w-full h-full z-10 backdrop-blur-md'>
+      {/* <div className='absolute w-full h-full z-10 backdrop-blur-md'> */}
+      <div className='absolute w-full h-full z-10'>
         <img src='/logo3.svg' className='w-90 mx-auto mt-40'/>
         <div className='mx-auto mt-10'>
           <h1 className='md:text-2xl text-center'>The website is under development,<br/>but you can still get in touch with us.</h1>
